@@ -14,4 +14,5 @@
 ## Orientação de Iamgens
 
 - Tanto em modo horizontal como vertical são aceitas no projeto
+- tipos diferentes de imagens também são aceitas, como jpg, webpg
 
