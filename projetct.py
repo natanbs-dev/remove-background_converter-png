@@ -16,7 +16,7 @@ try:
     img_no_bg = Image.open(io.BytesIO(result_data))
     img_no_bg.save(output_path, 'PNG')
 
-    print("Imagem processada e salva")
+    print("Imagem processada e salva como png")
 
 except Exception as e:
 
