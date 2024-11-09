@@ -11,7 +11,7 @@
 - Remover o **Background das Imagens**
 
 ---
-## Orientação de Iamgens
+## Orientação das Imagens
 
 - Tanto em modo horizontal como vertical são aceitas no projeto
 - tipos diferentes de imagens também são aceitas, como jpg, webp, SVG, PSD, RAW
