@@ -11,5 +11,7 @@
 - Remover o **Background das Imagens**
 
 ---
+## Orientação de Iamgens
 
+- Tanto em modo horizontal como vertical são aceitas no projeto
 
