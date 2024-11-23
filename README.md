@@ -14,4 +14,4 @@ exigisse que o usuário tenha domínio de ferramentas de manipulação
 
 - Tanto em modo horizontal como vertical são aceitas no projeto
 - tipos diferentes de imagens também são aceitas, como **jpg**, **webp**, **SVG**, **PSD**, **RAW**
-- independente do tamanho da imagem, poderá ser o processo de conversão
+- independente do tamanho da imagem, poderá passar pelo processo de conversão
